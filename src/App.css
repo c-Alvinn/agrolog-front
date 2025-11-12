@@ -1,0 +1,9 @@
+body {
+	background-color: #1a1a1a;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+	min-width: 100vw;
+	min-height: 100svh;
+	text-align: left;
+}
